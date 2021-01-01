@@ -13,5 +13,8 @@ Libraries used in the project:
   yahoofinancials==1.5
   scikit-learn==0.22.1
 
+
 Files Description: This project include stock_recommendation_classifier notebook which details all the codes and analysis done to build the classifier
+
+
 Results: We saw that there was some alpha in using ML models in your investment management process.
